@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Polite Badger Privacy Policy
 
-_Last updated: November 7, 2026_
+_Last updated: November 8, 2026_
 
 Polite Badger shows your calendar, reminders and habits together on iPhone, iPad and Mac. It's built so that your information stays with you: **there is no Polite Badger account, no Polite Badger server, no analytics, no advertising and no tracking.** The developer never receives, sees or stores your data.
 
@@ -28,11 +28,11 @@ Polite Badger asks for each permission only when you use the feature that needs 
 - **Location** (while the app is open). Used to show the weather and how long it takes to get to your events, and to set a reminder for where you are now. To answer, your location (and the addresses of your events) is sent to Apple's weather and maps services. Polite Badger doesn't keep your location, except a place you choose for a reminder, which is saved with that reminder in Reminders.
 - **Notifications.** Used for the habit reminders you set. They are scheduled on your device.
 - **Microphone and speech recognition.** Used only when you dictate a request to the assistant. Your speech is turned into text on your device.
-- **Camera** (iPhone and iPad). Used only when you scan your work calendar. The photo is read on your device to find that day's meetings, and it isn't kept. The meetings are added to a calendar you choose, and only after you review them.
+- **Camera** (iPhone and iPad). Used only when you take a photo of text to import, such as a printed plan or list. The photo is read on your device to find events, habits and to-dos, and it isn't kept. Nothing is added until you review it. Screenshots and photos you choose from your library, and text you paste, are handled the same way.
 
 ## Apple Intelligence
 
-The assistant, the automated diary and Scan Work Calendar use Apple Intelligence. They run on Apple's on-device model, so your information is processed on your device.
+The assistant, the automated diary and Import from Text use Apple Intelligence. They run on Apple's on-device model, so your information is processed on your device.
 
 ## Sharing
 
